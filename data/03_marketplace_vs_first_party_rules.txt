@@ -1,0 +1,155 @@
+MARKETPLACE POLICY — THIRD‑PARTY SELLERS vs FIRST‑PARTY (SYNTHETIC SAMPLE)
+Effective date: 2026-03-30
+Applies to: Orders placed on the marketplace platform that may be sold by (a) the platform/brand (first‑party) or (b) independent sellers (third‑party).
+
+1) OVERVIEW: WHO HANDLES WHAT
+1.1 First‑party listings
+If the order confirmation states “Sold by Platform” or “Sold by Brand,” then the Global First‑Party Store Policies apply, plus any Regional Addendum.
+
+1.2 Third‑party seller listings
+If the order confirmation states “Sold by [Seller Name],” the seller is the merchant of record.
+This means:
+- The seller may set return rules within platform limits.
+- The platform may still provide a minimum buyer protection standard.
+If seller rules conflict with platform buyer protection, the platform standard and local law prevail.
+
+2) RETURNS & REFUNDS (MARKETPLACE)
+2.1 Platform minimum standard
+Unless prohibited by law or clearly disclosed at checkout, third‑party sellers must follow these minimum standards:
+- Provide a return option for non‑final-sale goods within at least 14 days of delivery (region may vary).
+- Provide refunds for items that arrive damaged, defective, or not as described.
+- Provide a clear description of return shipping responsibility.
+
+2.2 Final sale in the marketplace
+Sellers may mark items as “final sale” only if:
+- The listing clearly discloses final sale before purchase, and
+- The item category is eligible for final sale under local law.
+Even for final sale items, the buyer may still receive remedies for:
+- Damage in transit, incorrect item, counterfeit, or misrepresentation.
+
+2.3 Hygiene items
+For hygiene or sealed goods, the platform may restrict returns once opened.
+Seller must disclose whether the item is sealed and what “opened” means.
+Condition examples:
+- If seal is intact: return may be accepted within the return window.
+- If seal is broken: return may be denied except for verified defect or wrong item.
+
+2.4 Perishables
+Perishables are typically non‑returnable.
+Platform buyer protection may provide refund/replacement if:
+- The issue is reported within 24–48 hours of delivery, and
+- The buyer provides clear photos and order details.
+Sellers may be required to use platform-approved shipping methods for perishables.
+
+2.5 Opened items (non-hygiene)
+Sellers may allow opened returns for certain categories (e.g., apparel) but may apply condition-based deductions.
+Platform limits:
+- Deductions must be reasonable and tied to diminished value.
+- The seller must explain deductions and, where required, provide evidence.
+
+2.6 Return shipping labels
+Return shipping responsibility depends on issue type:
+- Seller fault (damaged, incorrect, defective, not as described): seller pays return shipping or provides prepaid label.
+- Buyer remorse (changed mind, wrong size): buyer may pay return shipping.
+Platform may require sellers to provide prepaid labels for certain regions or categories.
+
+2.7 Refund timing
+Refunds are typically issued after the returned item is delivered to the seller or a platform warehouse and inspected.
+Condition: If the platform uses “instant refunds,” it may later reverse the refund if the return is incomplete or fraudulent.
+
+3) CANCELLATIONS (MARKETPLACE)
+3.1 Buyer-initiated cancellations
+Cancellations are allowed only before the seller confirms shipment.
+Conditions:
+- Once a seller marks the order shipped or a label is created, cancellation may be blocked.
+- If blocked, the buyer may need to return the item after delivery.
+
+3.2 Seller-initiated cancellations
+Sellers may cancel if out of stock, unable to ship to the address, or suspected fraud.
+Platform action:
+- Repeated seller cancellations may affect seller performance.
+- Buyer receives a full refund; coupon restoration depends on promotion terms.
+
+4) SHIPPING & DELIVERY
+4.1 Delivery estimates
+Marketplace delivery dates are estimates based on seller handling time and carrier transit.
+Sellers must disclose handling time (e.g., “ships in 2 business days”).
+
+4.2 Delays
+If a shipment is late:
+- Buyer should first check tracking and messaging.
+- Seller must respond within a platform-defined time window.
+Platform may grant remedies (credit/refund) if:
+- The item does not arrive by the latest estimated date plus a grace period, and
+- Tracking indicates a carrier exception or lack of movement.
+
+4.3 Lost packages
+A package may be treated as lost if:
+- There is no tracking movement for 7+ days, or
+- Tracking indicates delivery but the buyer reports non‑receipt within 48 hours.
+Conditions:
+- Buyer must confirm address, check safe locations, and cooperate with investigation.
+- For high-value items, platform may request a signed statement; some regions may require a police report reference.
+Resolution:
+- Refund or reshipment depending on inventory and seller capability.
+If tracking proves correct delivery to the provided address (GPS/photo/signature where available), the claim may be denied.
+
+5) PROMOTIONS & COUPON RULES (MARKETPLACE)
+5.1 Platform coupons vs seller coupons
+- Platform coupons are funded by the platform and apply under platform terms.
+- Seller coupons are funded by the seller and apply only to the seller’s eligible items.
+
+5.2 One coupon per order and stacking
+Unless explicitly stated, coupon stacking is not allowed.
+Some campaigns allow stacking with “free shipping” offers; if allowed, it will be stated in the promotion terms.
+
+5.3 Minimum spend and partial returns
+If a coupon required a minimum spend and you return items that reduce the net spend below the threshold:
+- The coupon discount may be prorated or removed.
+- The refund will reflect the updated net payable amount.
+Condition: If the platform provided a “bonus credit” (e.g., $10 off $50), the bonus may be forfeited when the threshold is no longer met.
+
+5.4 Coupon abuse
+The platform may limit or remove promotions for:
+- Multiple-account abuse, automated redemption, or resale behavior.
+- Chargeback patterns or suspicious payment activity.
+If an order is cancelled for suspected abuse, the buyer may be asked to use an alternative payment method or complete identity verification.
+
+6) DISPUTES: DAMAGED OR INCORRECT ITEMS
+6.1 Damaged item
+Report within 7 days of delivery (or sooner for perishables).
+Evidence conditions:
+- Photos of item, packaging, and shipping label.
+- For electronics, a short video showing the issue may be requested.
+Remedies:
+- Replacement, partial refund, or full refund.
+If the buyer requests replacement, the seller may require return of the damaged unit.
+
+6.2 Incorrect item
+Report within 14 days of delivery.
+Conditions:
+- Buyer must not use the item.
+- Provide photos and the packing slip if available.
+Remedies:
+- Correct item shipped, and prepaid label for return of incorrect item, OR
+- Full refund if replacement is unavailable.
+
+6.3 Not as described / counterfeit
+If an item is materially different from the listing or suspected counterfeit:
+- Buyer must report promptly and provide photos.
+- Platform may require return to a secure authentication center.
+If confirmed counterfeit, the buyer receives a full refund and may not be required to return the item, depending on local rules.
+
+7) REGIONAL DIFFERENCES
+The marketplace must comply with local consumer laws.
+Examples of how regional rules can affect marketplace outcomes:
+- EU: withdrawal rights may apply to eligible goods, but sealed hygiene goods may be excluded once unsealed.
+- India: category-specific return windows and “replacement only” rules may apply.
+- US: state restrictions can affect shipping of certain goods.
+When in doubt, the platform applies the rule set associated with the delivery destination.
+
+8) CUSTOMER SUPPORT CHANNELS
+First‑party orders: contact platform support or brand support as shown on the invoice.
+Third‑party orders: message the seller first; escalate to platform support if the seller does not respond within the platform time window or if the issue is covered by buyer protection.
+
+This document is synthetic and intended for testing/QA of RAG workflows.

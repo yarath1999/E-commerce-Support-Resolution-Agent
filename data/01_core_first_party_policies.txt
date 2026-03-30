@@ -1,0 +1,157 @@
+FIRST‑PARTY STORE POLICIES (GLOBAL) — SYNTHETIC SAMPLE
+Effective date: 2026-03-30
+Applies to: Purchases made directly from the brand’s first‑party storefront (web + mobile app) unless a product page or confirmation email states otherwise.
+
+1) SCOPE & DEFINITIONS
+“First‑party” means the item was sold and fulfilled by the brand (our warehouse or contracted carrier) and the payment was processed by us.
+“Final sale” means the item is not eligible for return, exchange, or price adjustment except where required by law or where we made an error.
+“Hygiene items” include (examples): cosmetics, skincare, underwear, swimwear, grooming tools, earphones/earbuds, and any item that touches the body or is sealed for sanitary reasons.
+“Perishables” include (examples): food, beverages, supplements with temperature requirements, flowers, and other time‑sensitive or temperature‑sensitive goods.
+“Opened items” means any product removed from original sealed packaging, or any sealed item whose tamper‑evident seal is broken.
+
+2) RETURNS & REFUNDS (GENERAL RULES)
+2.1 Return window
+- Standard return window: 30 days from delivery date.
+- Gift returns: 30 days from delivery date; refund is issued as store credit unless the original payer initiates a refund.
+Condition: The return must be initiated within the window and the package must be handed to the carrier within 7 days of receiving a return authorization.
+
+2.2 Item condition requirements
+Eligible returns must meet all of the following unless explicitly waived:
+- Item is unused, unwashed, and in resalable condition.
+- Original packaging, manuals, and accessories are included.
+- Any serial numbers/labels are intact and match the order.
+If an item is returned used, incomplete, or materially altered, we may (a) decline the return, (b) deduct a restocking fee, or (c) return the item back to you at your cost.
+
+2.3 Final sale items
+- Items labeled “Final Sale” are not returnable or exchangeable.
+Exception conditions:
+- Item arrived damaged or incorrect.
+- Item is defective within the applicable warranty period.
+- Mandatory local consumer rights apply (see Regional Addendum).
+
+2.4 Hygiene items
+Hygiene items are only returnable if ALL conditions below are met:
+- The item is unopened and the tamper seal is intact.
+- The return is initiated within 14 days of delivery.
+- The product is not listed as “non‑returnable” on the product page.
+If a hygiene item is opened, we may deny the return for health and safety reasons, even if it is within the normal 30‑day window.
+
+2.5 Perishables
+Perishables are not eligible for return.
+If there is an issue, we resolve it via replacement or refund under the Disputes section if:
+- You report the problem within 48 hours of delivery, and
+- You provide photos showing the condition at delivery.
+We may require temperature/handling evidence where relevant.
+
+2.6 Opened items (non‑hygiene)
+For non‑hygiene items, opening the packaging does not automatically make the item non‑returnable.
+However, if the item shows signs of use beyond reasonable inspection, we may apply a deduction or deny the return.
+Examples of “reasonable inspection”: trying on shoes indoors on a clean surface, checking size/fit while keeping tags attached.
+
+2.7 Refund method & timing
+- Refunds are issued to the original payment method after the return is received and inspected.
+- Processing time: typically 5–10 business days after inspection.
+Conditions that can extend processing time:
+- High return volume, incomplete packages, or mismatched serial numbers.
+- Returns routed through international customs.
+Shipping fees are non‑refundable unless the return is due to our error or a verified carrier failure.
+
+2.8 Exchanges
+Where available, exchanges are offered for the same item in a different size/color.
+Conditions:
+- The requested variant must be in stock.
+- The returned item must meet condition requirements.
+If exchange inventory is unavailable, we issue a refund instead.
+
+3) CANCELLATIONS
+3.1 Cancellation window
+You may cancel an order within 60 minutes of placing it, unless the order has already entered fulfillment.
+Condition: Orders that are “Ready to Ship,” “Shipped,” or “Handed to Carrier” cannot be cancelled.
+
+3.2 Address changes
+Address changes are treated as cancellations + reorders.
+We can attempt a change only if:
+- The request is made within the 60‑minute window, and
+- The carrier label has not been created.
+If the label is created, you may need to contact the carrier directly or wait for delivery and then initiate a return.
+
+3.3 Pre‑orders and backorders
+Pre‑orders may be cancellable until the item is allocated to a shipment.
+Backorders may be cancelled any time before shipment, unless noted otherwise.
+If a promotional discount applied, cancellation and reorder may cause the promotion to be re‑evaluated under current terms.
+
+4) SHIPPING & DELIVERY
+4.1 Standard handling and transit
+Handling time is typically 1–2 business days. Transit times vary by destination and carrier.
+Estimated delivery dates are estimates, not guarantees, unless an express guarantee is explicitly purchased.
+
+4.2 Delays
+We are not responsible for delays caused by:
+- Weather, natural disasters, strikes, customs inspections, or carrier capacity.
+- Incorrect address provided by the customer.
+- Security screening or delivery restrictions.
+If a package is delayed beyond 7 days past the latest estimate, we may offer one of the following at our discretion:
+- A goodwill credit, or
+- A reshipment after confirming the package is lost (see 4.3).
+
+4.3 Lost package policy
+A package is considered “lost” when:
+- Tracking shows no movement for 7 consecutive days after shipment, OR
+- Tracking shows “Delivered” but you report non‑receipt within 48 hours and delivery evidence is inconclusive.
+Required conditions:
+- You must confirm the shipping address and check safe locations/building mailroom.
+- For higher‑value orders, we may require a signed statement or police report number, where legally allowed.
+Resolution options:
+- Reshipment (subject to inventory), or
+- Refund to the original payment method.
+If carrier records show delivery to the correct address with proof (e.g., GPS/photo) we may deny a refund, but we will still help you file a carrier claim.
+
+5) PROMOTIONS & COUPON RULES
+5.1 One coupon per order
+Unless stated otherwise, only one coupon code can be applied per order.
+
+5.2 Eligibility restrictions
+Coupons may exclude:
+- Final sale items
+- Gift cards
+- Perishables
+- Bundles or subscription items
+Conditions are shown in the promotion terms and may change by campaign.
+
+5.3 Minimum spend and returns
+If you return items from an order that used a minimum‑spend coupon and the post‑return subtotal falls below the threshold:
+- The discount may be removed, and
+- Your refund amount will be adjusted accordingly.
+
+5.4 Misuse and fraud
+We may cancel orders or disable coupons for misuse, including:
+- Publicly posted “private” codes, automated scraping, or multiple account abuse.
+- Resale behavior that violates our terms.
+We will notify you if an order is cancelled for suspected abuse.
+
+6) DISPUTES & ISSUE RESOLUTION
+6.1 Damaged item
+Report within 7 days of delivery.
+Conditions:
+- Provide photos of the item and outer packaging.
+- Keep all packaging until the claim is resolved.
+Resolution:
+- Replacement or refund; for certain items we may request return shipment before replacement.
+
+6.2 Incorrect item
+Report within 14 days of delivery.
+Conditions:
+- Provide a photo of the item received and the packing slip.
+Resolution:
+- We ship the correct item (subject to stock) and provide a prepaid return label for the incorrect item, or
+- We issue a refund if replacement is unavailable.
+
+6.3 Chargebacks
+Before initiating a chargeback, contact support so we can attempt a resolution.
+If you file a chargeback while a return is in progress, the return may be paused until the dispute is resolved.
+
+7) MARKETPLACE VS FIRST‑PARTY NOTE
+If your order confirmation indicates the item was sold by a third‑party marketplace seller, different rules may apply (see Marketplace Addendum). In case of conflict, the seller policy and the platform’s mandatory rules govern.
+
+CONTACT & RECORDKEEPING
+Keep your order number and delivery address available when contacting support. We may request additional verification for account security.

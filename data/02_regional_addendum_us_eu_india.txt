@@ -1,0 +1,107 @@
+REGIONAL POLICY ADDENDUM — US vs EU vs INDIA (SYNTHETIC SAMPLE)
+Effective date: 2026-03-30
+Purpose: This addendum clarifies region-specific variations to the Global First‑Party Store Policies. If a local consumer law gives you stronger rights than our standard policy, the local law applies.
+
+A) HOW TO DETERMINE YOUR REGION
+We use the delivery destination country to determine which addendum applies. If you ship to a freight-forwarder, we treat the final destination recorded on the order as your region and may limit remedies where we cannot verify end delivery.
+
+B) UNITED STATES (US)
+B1) Returns & refunds
+- Standard return window remains 30 days from delivery.
+- Final sale items remain non‑returnable unless damaged/incorrect/defective.
+Condition: For high-value electronics and serialized items, we may require you to initiate the return within 14 days and include all accessories.
+
+B2) Hygiene items
+- Unopened hygiene items may be returned within 14 days.
+- Opened hygiene items are not returnable due to health and safety.
+Exception condition: If the item is defective on arrival (DOA), we may replace it after verification.
+
+B3) Perishables
+Perishables are not returnable.
+If damaged/spoiled, report within 48 hours, provide photos, and retain packaging.
+Resolution is typically refund or replacement.
+
+B4) Shipping delays and lost packages
+- “Lost” thresholds follow the global policy (no movement for 7 days, or delivered-but-not-received within 48 hours).
+- If a carrier confirms misdelivery, we will reship or refund.
+Condition: Apartments and dorms may require a mailroom statement or delivery log confirmation.
+
+B5) Promotions
+US promotions may include state-based exclusions (for example, restrictions on alcohol shipments). If an item cannot be shipped to your state, we may cancel that item and refund the portion of your order.
+
+C) EUROPEAN UNION (EU)
+C1) Right of withdrawal (distance selling)
+For many goods purchased online, you may have a legal “right of withdrawal” period.
+- We align our standard return window to 30 days.
+- If local law provides 14 days and our policy provides 30 days, you still receive 30 days.
+Conditions for withdrawal:
+- You must notify us within the relevant period.
+- You may inspect goods as you would in a store, but excessive handling that reduces value may result in a deduction.
+
+C2) Exclusions (hygiene and sealed goods)
+Sealed goods that are not suitable for return for health protection or hygiene reasons may be excluded from withdrawal once unsealed.
+- Hygiene items that are sealed: return is permitted only if the seal is intact.
+- Opened sealed hygiene items: generally excluded from withdrawal.
+Condition: We will clearly label hygiene/sealed exclusions on product pages and your invoice where required.
+
+C3) Perishables and time-sensitive goods
+Perishables and goods that deteriorate rapidly are typically excluded from withdrawal.
+Resolution for issues:
+- If the item arrived damaged or not as described, you may have remedies under conformity rules.
+- Report issues within 48 hours for perishables to enable a fair investigation.
+
+C4) Defective/damaged/incorrect items (conformity)
+If an item is defective or not as described, you may have rights to repair, replacement, price reduction, or refund depending on the circumstances.
+Conditions:
+- Provide evidence of the issue (photos, videos, error logs).
+- Return may be required for assessment.
+We do not reduce your statutory rights by labeling an item “final sale.” Final sale affects voluntary returns, not mandatory conformity remedies.
+
+C5) Refund timing
+Where withdrawal applies, refunds are issued promptly after we receive the returned goods or proof of return, depending on the jurisdiction.
+We may withhold refund until we receive the goods if permitted.
+
+C6) Shipping delays and delivery
+EU cross-border shipping may involve customs and longer transit times.
+Condition: If a carrier delay is outside our control, we may not refund shipping fees unless you purchased a guaranteed service.
+
+D) INDIA
+D1) Return window and eligibility
+India returns depend on product category due to hygiene and perishables.
+- Standard return window: 10–15 days from delivery for eligible categories (varies by item; the order confirmation will show the applicable window).
+- Certain categories may be “replacement only” within the window.
+Conditions:
+- Items must be unused and in original packaging.
+- For electronics, IMEI/serial must match and all accessories must be included.
+
+D2) Hygiene items
+Many hygiene categories are non‑returnable once opened.
+- If unopened with intact seals, return may be allowed within the category window.
+- If opened, we generally offer replacement only for manufacturing defects.
+
+D3) Perishables
+Perishables are not returnable.
+Issue reporting window is 24–48 hours depending on category and temperature requirements.
+Condition: Delivery attempts in high-heat regions may require immediate inspection at receipt.
+
+D4) Cash-on-delivery and refunds
+If you paid by cash-on-delivery, refunds may be processed to bank transfer or store credit.
+Condition: You must provide accurate beneficiary details; processing time may be longer due to bank settlement.
+
+D5) Shipping delays and lost packages
+Lost package investigations can take longer where carriers require local station confirmation.
+Condition: If the package is marked delivered, we may request proof of non-receipt and an FIR/complaint reference for high-value items where permitted.
+
+D6) Promotions
+India promotions may be restricted by category, region (e.g., serviceable PIN codes), and payment method.
+Condition: If a promotion required a specific payment method and the order is later partially refunded, the effective discount may be re-calculated.
+
+E) CROSS-REGION NOTES
+E1) Currency and taxes
+Refunds are made in the original transaction currency when possible. Duties/taxes may be non-refundable when collected by authorities.
+
+E2) Marketplace orders
+If you bought from a marketplace seller, the seller’s region-specific policy may apply even if the platform is in another region. See the Marketplace Addendum for seller-handled returns vs platform-managed returns.
+
+E3) Data and documentation
+For any region, we may request evidence to resolve disputes fairly (photos, carrier confirmations, or signed statements). We request only what is necessary and handle it according to our privacy policy.
